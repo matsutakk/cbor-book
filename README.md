@@ -1,6 +1,6 @@
 # CBOR入門
  
-技術同人誌「CBOR入門」のサンプルコードリポジトリです。
+[技術同人誌「CBOR入門」](https://techbookfest.org/product/97naNnj1m1hdaNg8AUv0Py?productVariantID=gDXA4fL5ZCk78yzTPRWaPC)のサンプルコードリポジトリです。
 
 | ファイル | 内容 | リンク |
 |---|---|---|
